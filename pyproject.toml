@@ -1,0 +1,19 @@
+[project]
+name = "stock_market_prediction"
+version = "0.1.0"
+description = "Stock Market Prediction using ML DL and Foundation Models"
+authors = [{name="Rajveer"}]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas==2.1.1",
+    "numpy==1.26.0",
+    "matplotlib==3.8.0",
+    "statsmodels>=0.14.5",
+    "jupyter==1.0.0",
+    "ipykernel==6.30.0",
+    "pyarrow>=23.0.0",
+    "optuna>=4.7.0",
+    "pyyaml>=6.0.3",
+    "joblib>=1.5.3",
+]
