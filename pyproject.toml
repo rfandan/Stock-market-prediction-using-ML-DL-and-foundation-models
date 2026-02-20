@@ -19,7 +19,7 @@ dependencies = [
     "torch==2.2.2",
     "chronos-forecasting>=0.1.1",
     "umap-learn>=0.5.4",
-    "numba>=0.58.0",
+    "numba==0.59.1",
     "seaborn>=0.13.0",
     "scikit-learn>=1.3.0",
     "yfinance>=0.2.31",
